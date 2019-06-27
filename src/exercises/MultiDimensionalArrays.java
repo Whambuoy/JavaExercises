@@ -18,7 +18,8 @@ public class MultiDimensionalArrays {
 		String [] [] words = new String [2][3];
 		words [0] [1] = "Esther Wambui";
 		System.out.println(words[0][1]);
-			
+		System.out.println();
+		
 		System.out.println(grid.length);
 		for(int row = 0; row < grid.length; row++) {
 			for(int column = 0; column < grid[row].length; column++) {

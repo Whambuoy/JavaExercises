@@ -20,7 +20,7 @@ class Peeps{
 		return name;
 	}
 }
-public class GettersAndSetters {
+public class GettersAndReturnValues {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

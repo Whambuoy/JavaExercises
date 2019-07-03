@@ -15,7 +15,7 @@ public class MethodParameters {
 		Robot sam = new Robot();
 		sam.speak("Hello, It is me.");
 		
-		sam.animals("Goat", "lion");
+		sam.animals("Goats", "lions");
 		
 		String greetings = "Good morning";
 		sam.speak(greetings);

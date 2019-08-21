@@ -27,8 +27,9 @@ public class RuntimeCheckedExceptions {
 		*/
 		
 		//--------------------------------------------------------------------------------
-		//Arratindexoutofbounds exception
+		//Arrayindexoutofbounds exception
 		//You can add your own try-catch block
+		/*
 		try {
 		String[] texts = {"One", "Two"};
 		System.out.println(texts[3]);
@@ -38,6 +39,7 @@ public class RuntimeCheckedExceptions {
 			System.out.println(e.getMessage());
 			System.out.println(e.toString());
 		}
+		*/
 
 }
 }
